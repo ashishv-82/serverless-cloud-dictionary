@@ -27,6 +27,10 @@ The application leverages Lambda for backend processing, API Gateway for managin
 
 ![Serverless Cloud Dictionary Architecture](images/architecture-diagram.png)
 
+## Cloud Dictionary App 📱
+
+![Cloud Dictionary App](images/app.png)
+
 ## Deployment 🌐
 
 To deploy this application to AWS Amplify:
